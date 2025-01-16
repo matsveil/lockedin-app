@@ -2,3 +2,6 @@
 
 - **Donwload Now:** [App Store](https://apps.apple.com/us/app/lockedin-pomodoro-breathing/id6466096636)
 - **Contact Us:** hello@trylockedin.com
+- **Privacy Policy:** https://github.com/matsveil/lockedin-app/blob/main/privacy-policy.md
+- **Terms of Use (EULA):** https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+
